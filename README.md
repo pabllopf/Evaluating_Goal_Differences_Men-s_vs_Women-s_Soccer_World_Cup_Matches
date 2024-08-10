@@ -28,3 +28,10 @@ You assume a **10% significance level**, and use the following null and alternat
 $H_0$ : The mean number of goals scored in women's international soccer matches is the same as men's.
 
 $H_A$ : The mean number of goals scored in women's international soccer matches is greater than men's.
+
+
+# result:
+![image](https://github.com/user-attachments/assets/ae605138-23b8-4653-9b13-b2396120bcce)
+
+![image](https://github.com/user-attachments/assets/b59ee46b-d7d8-4374-8010-c5345ea303da)
+
